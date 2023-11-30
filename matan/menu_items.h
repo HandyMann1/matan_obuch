@@ -8,9 +8,13 @@ namespace AArshinov {
 	extern const MenuItem STUDY;
 	extern const MenuItem EXIT;
 	
-	extern const MenuItem STUDY_LIM_KOSHI;
-	extern const MenuItem STUDY_LIM_HEINE;
-	extern const MenuItem STUDY_PEANO;
-	extern const MenuItem STUDY_ARHIMED;
+	extern const MenuItem MATAN;
+	extern const MenuItem ALGEBRUH;
+	
 	extern const MenuItem STUDY_GO_BACK;
+
+	extern const MenuItem DIFF;
+	extern const MenuItem INTEGRAL;
+
+	extern const MenuItem MATAN_GO_BACK;
 }

@@ -3,13 +3,15 @@
 #include "menu.h"
 
 namespace AArshinov {
-	const MenuItem* show_menu(const MenuItem* current);
+	const MenuItem* study_math(const MenuItem* current);
 
 	const MenuItem* exit(const MenuItem* current);
 	
-	const MenuItem* study_lim_koshi(const MenuItem* current);
-	const MenuItem* study_lim_heine(const MenuItem* current);
-	const MenuItem* study_peano(const MenuItem* current);
-	const MenuItem* study_arhimed(const MenuItem* current);
+	const MenuItem* matan(const MenuItem* current);
+	const MenuItem* algebruh(const MenuItem* current);
 	const MenuItem* study_go_back(const MenuItem* current);
+
+	const MenuItem* diff(const MenuItem* current);
+	const MenuItem* integral(const MenuItem* current);
+	const MenuItem* matan_go_back(const MenuItem* current);
 }
