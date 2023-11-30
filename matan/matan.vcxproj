@@ -24,6 +24,7 @@
     <ProjectGuid>{ed707beb-4e13-4d7a-bbd7-e19469c5707d}</ProjectGuid>
     <RootNamespace>matan</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>menu</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="matan.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="menu_functions.cpp" />
     <ClCompile Include="menu_items.cpp" />
   </ItemGroup>

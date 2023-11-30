@@ -9,7 +9,7 @@ namespace AArshinov {
 	extern const MenuItem EXIT;
 	
 	extern const MenuItem MATAN;
-	extern const MenuItem ALGEBRUH;
+	extern const MenuItem ALGEBRA;
 	
 	extern const MenuItem STUDY_GO_BACK;
 
@@ -17,4 +17,10 @@ namespace AArshinov {
 	extern const MenuItem INTEGRAL;
 
 	extern const MenuItem MATAN_GO_BACK;
+
+	extern const MenuItem SUMM;
+	extern const MenuItem SUBSTRACT;
+	extern const MenuItem MULTIPLY;
+	extern const MenuItem DIVIDE;
+	extern const MenuItem ALG_GO_BACK;
 }
